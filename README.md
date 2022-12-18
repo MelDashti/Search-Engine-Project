@@ -10,4 +10,5 @@ An offline search engine that I built in Java for my Information Retrieval & Web
 * Dealt with complications of parsing searchable information from a few cluttered and unorganized HTML web pages. 
 
 By uncommenting the test code in the backend.java file you can test how fast the search engine parses and indexes your files. 
-![image](https://user-images.githubusercontent.com/72992585/208289690-aa9c57eb-2ed7-48f5-b162-435b38eb4364.png)
+
+![Picture1](https://user-images.githubusercontent.com/72992585/208289857-95f97d90-7a53-41df-86a1-5deb2818f537.png)
